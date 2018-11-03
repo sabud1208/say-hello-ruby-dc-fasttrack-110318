@@ -4,4 +4,4 @@ end
 
 
 
-say_hello("Tom")
+say_hello
