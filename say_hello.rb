@@ -4,4 +4,4 @@ end
 
 name= "Kent Beck"
 
-say_hello
+say_hello(name)
