@@ -1,7 +1,7 @@
-def say_hello(name)
+def say_hello(name= "Ruby Programmer" )
   puts "Hello #{name}!"
 end
 
-name= "Kent Beck"
+person= "Kent Beck"
 
-say_hello(name)
+say_hello(person)
